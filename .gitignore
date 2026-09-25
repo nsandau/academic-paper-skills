@@ -1,0 +1,3 @@
+# Documentation is part of this skill package. Override the user's global docs/ rule.
+!docs/
+!docs/**

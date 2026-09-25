@@ -1,0 +1,47 @@
+{
+  "source_repository": "https://github.com/Imbad0202/academic-research-skills",
+  "skill_count": 30,
+  "skills": [
+    "academic-writing",
+    "ai-disclosure",
+    "argument-builder",
+    "argument-stress-test",
+    "citation-audit",
+    "claim-evidence-audit",
+    "evidence-synthesis",
+    "fact-check",
+    "figure-table-planner",
+    "journal-fit",
+    "literature-monitoring",
+    "literature-search",
+    "literature-synthesis",
+    "manuscript-integrity-audit",
+    "methodology-review",
+    "paper-outline",
+    "paper-planner",
+    "peer-review",
+    "reporting-guidelines",
+    "research-brief",
+    "research-design",
+    "research-gap",
+    "research-question",
+    "review-synthesis",
+    "revision",
+    "section-writer",
+    "socratic-research",
+    "source-evaluator",
+    "style-calibration",
+    "submission-check"
+  ],
+  "dropped_by_user": [
+    "format-convert",
+    "preregistration-planner",
+    "research-ethics-and-integrity"
+  ],
+  "architecture": "standalone skills with optional modes and local reference files",
+  "upstream_audit": {
+    "date": "2026-09-24",
+    "scope": "capability-level audit of current main skill modes, core agents, reference protocols, integrity layers, and recent release changes",
+    "upstream_release_seen": "v3.22.1"
+  }
+}
